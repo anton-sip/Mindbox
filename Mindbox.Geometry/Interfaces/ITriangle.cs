@@ -6,5 +6,5 @@ public interface ITriangle : IFigure
     public double SideB { get; init; }
     public double SideC { get; init; }
     public double Perimetr { get; init; }
-    public bool IsRightTriangle(double epsillon = 1e-3);
+    public bool IsRightTriangle(double epsillon);
 }

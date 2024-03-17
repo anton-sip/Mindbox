@@ -4,7 +4,7 @@ using Mindbox.Interfaces;
 
 namespace MindBox.Geometry.Test;
 
-public class Tests
+public class CircleTests
 {
     private const double Epsillon = Constants.Epsillon;
         
